@@ -1,4 +1,4 @@
-/* xfce4-panel-plugin-loader-applet.c:
+/* mate-xfce4-panel-plugin-loader-applet.c:
  *
  * Copyright (C) 2015 Błażej Szczygieł <spaz16@wp.pl>
  *

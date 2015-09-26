@@ -1,5 +1,5 @@
 AC_INIT([mate-xfce4-panel-plugin-loader-applet],
-        [1.0.0])
+        [1.0.1])
 
 AC_CONFIG_HEADERS(config.h)
 AC_PROG_CC

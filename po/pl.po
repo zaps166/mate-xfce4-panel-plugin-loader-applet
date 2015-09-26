@@ -10,11 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../src/xfce4-panel-plugin-loader-applet.c:171
+#. Show file dialog to choose the library
+#: ../src/mate-xfce4-panel-plugin-loader-applet.c:195
 msgid "Open Xfce4 panel plugin library"
 msgstr "Otwórz bibliotekę wtyczki panelu Xfce4"
 
-#: ../src/xfce4-panel-plugin-loader-applet.c:318
+#: ../src/mate-xfce4-panel-plugin-loader-applet.c:343
 msgid "Click here to choose Xfce4 panel plugin"
 msgstr "Kliknij tutaj, aby wybrać wtyczkę panelu Xfce4"
 
@@ -24,5 +25,6 @@ msgstr "Ładowanie wtyczek panelu Xfce4 w MATE"
 
 #: ../src/org.mate.Xfce4PanelPluginLoader.Applet.mate-panel-applet.in.in.h:2
 msgid ""
-"Applet for MATE panel which can load external Xfce4 panel plugins like Whisker Menu"
+"Applet for MATE panel which can load external Xfce4 panel plugins like "
+"Whisker Menu"
 msgstr "Applet do panelu MATE, który potrafi ładować zewnętrzne wtyczki panelu Xfce4 (np. Menu Whisker)"
