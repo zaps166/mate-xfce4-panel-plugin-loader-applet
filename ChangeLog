@@ -1,2 +1,9 @@
-v1.0.1 - Corrected file names
-v1.0.0 - First release
+v1.1.0:
+	- correct environment variables (needed for application launching from Whisker Menu),
+	- removed "about" from context menu,
+	- show more informations to user,
+	- fixed translations,
+v1.0.1:
+	- corrected file names,
+v1.0.0:
+	- first release,
