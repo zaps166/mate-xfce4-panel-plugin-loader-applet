@@ -264,7 +264,7 @@ static XfcePanelPlugin *get_xfce_panel_plugin(const gchar *file_name)
 		if (!construct_func)
 		{
 			if (dlsym(handle, "xfce_panel_module_init"))
-				show_message(file_name, _("only external Xfce4 panel plugins are supported!"));
+				show_message(file_name, _("this plugin is not supported yet!"));
 			else
 				show_message(file_name, _("is not Xfce4 panel plugin library!"));
 		}

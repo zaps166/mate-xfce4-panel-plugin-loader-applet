@@ -22,8 +22,8 @@ msgid "cannot load the library!"
 msgstr "nie można załadować biblioteki!"
 
 #: ../src/mate-xfce4-panel-plugin-loader-applet.c:267
-msgid "only external Xfce4 panel plugins are supported!"
-msgstr "obsługiwane są tylko zewnętrzne wtyczki panelu Xfce4!"
+msgid "this plugin is not supported yet!"
+msgstr "ta wtyczka nie jest jeszcze obsługiwana!"
 
 #: ../src/mate-xfce4-panel-plugin-loader-applet.c:269
 msgid "is not Xfce4 panel plugin library!"
@@ -42,7 +42,5 @@ msgid "MATE Xfce4 panel plugin loader"
 msgstr "Ładowanie wtyczek panelu Xfce4 w MATE"
 
 #: ../src/org.mate.Xfce4PanelPluginLoader.Applet.mate-panel-applet.in.in.h:2
-msgid ""
-"Applet for MATE panel which can load external Xfce4 panel plugins like "
-"Whisker Menu"
-msgstr "Applet do panelu MATE, który potrafi ładować zewnętrzne wtyczki panelu Xfce4 (np. Menu Whisker)"
+msgid "Applet for MATE panel which can load Xfce4 panel plugins like Whisker Menu"
+msgstr "Applet do panelu MATE, który potrafi ładować wtyczki panelu Xfce4 (np. Menu Whisker)"

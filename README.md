@@ -1,6 +1,6 @@
 #MATE Xfce4 panel plugin loader
 
-##Applet for MATE panel which can load external Xfce4 panel plugins like xfce4-whiskermenu-plugin or xfce4-weather-plugin!
+##Applet for MATE panel which can load Xfce4 panel plugins like xfce4-whiskermenu-plugin or xfce4-weather-plugin!
 
 ###Known bugs and limitations:
 - this applet uses internal "xfce4-panel" and "mate-panel" structures, so it may be incompatible between versions,

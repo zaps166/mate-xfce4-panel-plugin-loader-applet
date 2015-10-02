@@ -4,5 +4,5 @@ Location=@LOCATION@
 
 [Xfce4PanelPluginLoader]
 _Name=MATE Xfce4 panel plugin loader
-_Description=Applet for MATE panel which can load external Xfce4 panel plugins like Whisker Menu
+_Description=Applet for MATE panel which can load Xfce4 panel plugins like Whisker Menu
 Icon=xfce4-logo

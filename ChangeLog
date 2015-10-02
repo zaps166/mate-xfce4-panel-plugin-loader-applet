@@ -1,3 +1,5 @@
+v1.1.1:
+	- corrected user messages,
 v1.1.0:
 	- correct environment variables (needed for application launching from Whisker Menu),
 	- removed "about" from context menu,
