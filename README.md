@@ -14,4 +14,5 @@
 - All Settings: "mate-control-center",
 - Lock Screen: "mate-screensaver-command -l",
 - Switch Users: "mate-session-save --logout-dialog",
-- Log Out: "mate-session-save --shutdown-dialog".
+- Log Out: "mate-session-save --shutdown-dialog",
+- Edit Applications: "mozo".
