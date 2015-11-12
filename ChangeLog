@@ -1,3 +1,5 @@
+v1.1.2:
+    - fix compilation with [-Werror=format-security],
 v1.1.1:
 	- corrected user messages,
 v1.1.0:

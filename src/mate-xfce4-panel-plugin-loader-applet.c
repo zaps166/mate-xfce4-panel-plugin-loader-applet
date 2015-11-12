@@ -240,16 +240,9 @@ static gchar *get_lib_file_name()
 /* Helper function to show message dialogs */
 static void show_message(const gchar *lib_name, const gchar *info_msg)
 {
-	gchar *msg = (gchar *)g_malloc(strlen(lib_name) + 2 + strlen(info_msg) + 1);
-	strcpy(msg, lib_name);
-	strcat(msg, ": ");
-	strcat(msg, info_msg);
-
-	GtkWidget *dlg = gtk_message_dialog_new(NULL, 0, GTK_MESSAGE_INFO, GTK_BUTTONS_OK, msg);
+	GtkWidget *dlg = gtk_message_dialog_new(NULL, 0, GTK_MESSAGE_INFO, GTK_BUTTONS_OK, "%s: %s", lib_name, info_msg);
 	gtk_dialog_run(GTK_DIALOG(dlg));
 	gtk_widget_destroy(dlg);
-
-	g_free(msg);
 }
 
 /* Load Xfce4 applet */
