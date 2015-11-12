@@ -1,5 +1,5 @@
 AC_INIT([mate-xfce4-panel-plugin-loader-applet],
-        [1.1.2],
+        [1.1.3],
 		[https://github.com/zaps166/mate-xfce4-panel-plugin-loader-applet/issues],
 		[mate-xfce4-panel-plugin-loader-applet],
 		[https://github.com/zaps166/mate-xfce4-panel-plugin-loader-applet])
